@@ -2,6 +2,7 @@ package adambots.git.tests;
 
 /**
  * @author Steven
+ * @modified Ben Bray
  */
 
 public class SecondClass {
