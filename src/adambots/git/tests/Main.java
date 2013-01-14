@@ -2,3 +2,8 @@
 /**
  * @STEVEN
  */
+package adambots.git.tests;
+
+public class Main {
+    
+}
