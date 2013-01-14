@@ -7,6 +7,7 @@ package adambots.git.tests;
 /**
  *
  * @author Ben
+ * @modified 1/14/13 Added Test Code
  */
 public class ThirdClass {
     
@@ -19,5 +20,9 @@ public class ThirdClass {
 	} else if(!true || false){
 	    System.err.println("wat");
 	}	
+    }
+    
+    private void doNothing(){
+	// Lolololo
     }
 }
