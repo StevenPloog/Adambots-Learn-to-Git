@@ -23,6 +23,6 @@ public class ThirdClass {
     }
     
     private void doNothing(){
-	// Lolololo
+	// Ben's Da Best
     }
 }
