@@ -23,6 +23,6 @@ public class ThirdClass {
     }
     
     private void doNothing(){
-	// No Ben
+	// Fetch Please!
     }
 }
