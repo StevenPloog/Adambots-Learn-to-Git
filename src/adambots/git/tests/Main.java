@@ -1,6 +1,11 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package adambots.git.tests;
 
 /**
+ *
  * @author Steven
  */
 public class Main {
@@ -9,6 +14,6 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        // TODO code application logic here
     }
 }
