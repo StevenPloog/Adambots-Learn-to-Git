@@ -12,6 +12,15 @@ public class HelloWorld {
     
     public HelloWorld(String message) {
 	_message = message;
+	_worlds = new ArrayList<World>(0);
+    }
+    
+    public void addWorld(String name, int pop) {
+	_worlds.add(new World(name, pop));
+    }
+    
+    public void printWorlds() {
+	//TODO: Add code to print the worlds here.
     }
     
     public void setMessage(String message) {
