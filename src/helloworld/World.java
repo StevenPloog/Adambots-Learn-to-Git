@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package helloworld;
 
 /**
@@ -10,4 +6,19 @@ package helloworld;
  */
 public class World {
     
+    private String _name;
+    private int _population;
+    
+    public World(String name, int population) {
+	_name = name;
+	_population = population;
+    }
+    
+    public String getName() {
+	return _name;
+    }
+    
+    public void apocalypseNow(int survivors) {
+	_population = survivors;
+    }
 }
